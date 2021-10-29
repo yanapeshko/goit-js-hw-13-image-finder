@@ -1,5 +1,3 @@
-// import throttle from 'lodash.throttle';
-// import debounce from 'lodash.debounce';
 import imagesTemplate from '../templates/imageCard.hbs';
 import ApiImagesService from './apiService.js';
 import refs from './refs.js';
